@@ -1,7 +1,7 @@
-fun sayyHello(): Unit{
+fun sayyHelloWorld(): Unit{
     println("Hello World")
 }
 
 fun main() {
-    sayyHello()
+    sayyHelloWorld()
 }
