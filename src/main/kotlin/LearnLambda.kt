@@ -15,5 +15,4 @@ fun main() {
     println(formatString1("adi sudirta"))
     println(formatString2("ADI SUDIRTA"))
     println(formatString3("adi sudirtayasa"))
-
 }
